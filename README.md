@@ -1,6 +1,10 @@
-Pre-Note: In this fork of bolt/docs I'll start translating the end user manual located in docs/manual into German. So there will be no merge back into the original repo.
+**Pre-Note**: In this fork of [bolt/docs][] I'll start translating the end user [manual][] into German. So there will be no merge back into the original repo.
 
 /binarykiwi
+
+[bolt/docs]: https://github.com/bolt/docs
+[manual]: /docs/manual/
+----
 
 Bolt Documentation Site & Content
 =================================
