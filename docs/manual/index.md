@@ -1,6 +1,6 @@
 ---
-title: End user Manual
-short_title: User Manual
+title: Handbuch für den Endbenutzer
+short_title: Bedienungsanleitung
 pages:
     - first-user
     - login
@@ -16,27 +16,28 @@ pages:
     - fieldtypes
 ---
 
-Welcome to the Bolt user manual
-===============================
+Willkommen im Bolt Endbenutzer-Handbuch
+=======================================
 
-Bolt is a tool for Content Management, which strives to be as simple and
-straightforward as possible. It is quick to set up, easy to configure, uses
-elegant templates, and above all: it's a joy to use.
+Bolt ist ein Content Management System, das so einfach wie möglich sein will. Es ist 
+schnell einzurichten, einfach zu konfigurieren und vor allem: es ist eine Freude es zu 
+bedienen.
 
-Bolt is created using modern Open Source libraries, and is best suited to build
-sites in HTML5, with modern markup.
+Bolt ist mit modernen Open Source Bibliotheken erstellt und ist am besten für den Aufbau 
+von Webseiten mit modernen Markup in HTML5 geeignet.
 
-Basically, there are three groups of users we've created Bolt for:
+Grundsätzlich gibt es drei Gruppen von Benutzern, die wir für Bolt erstellt haben:
 
- - End users 'editors' that want to focus on producing and editing content,
-   and not on clicking buttons in the CMS. This is the group that this manual
-   is for
- - Front-end designers and developers who like to write clean markup, and who
-   want to build websites where the CMS doesn't dictate what the templates or
-   site should look like. Readers belonging to this group probably want to look
-   at the [documentation][] after looking through this manual
- - Developers who need a system that's easy to set up and configure, that is
-   also easy to manage and maintain, but is flexible and versatile. Readers
-   from this group probably want to skip directly to the [documentation][]
+ - Endbenutzer, die sich auf die Erstellung und Bearbeitung von Inhalten konzentrieren 
+   möchten und nicht auf die Schaltflächen im CMS. Für diese Gruppe ist diese folgende 
+   Anleitung geschrieben.
+ - Front-End-Designer und Entwickler, die gerne sauberes Markup schreiben und Webseiten 
+   erstellen möchten, bei denen nicht das CMS vorgibt, wie die Vorlagen oder die Webseite 
+   auszusehen hat. Die Gruppe sollte bei der [Dokumentation][] weiterlesen, nachdem sie 
+   diese Anleitung durchgesehen hat
+ - Entwickler, die ein System benötigen, das einfach eingerichtet und konfiguriert werden 
+   kann. Ein System, das auch einfach zu verwalten und zu warten, aber dennoch flexibel 
+   und vielseitig ist. Gehören Sie dieser Gruppe an, möchten Sie wahrscheinlich direkt 
+   zur [Dokumentation][]
 
-[documentation]: https://docs.bolt.cm/ 
+[Dokumentation]: https://docs.bolt.cm/ 
